@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1259
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AracKiralamaOtomasyonu", "AracKiralamaOtomasyonu\AracKiralamaOtomasyonu.csproj", "{FA38E453-062C-4C75-BB9C-6838E11845D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA38E453-062C-4C75-BB9C-6838E11845D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA38E453-062C-4C75-BB9C-6838E11845D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA38E453-062C-4C75-BB9C-6838E11845D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA38E453-062C-4C75-BB9C-6838E11845D8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BA9E0FA3-D953-4471-8FBE-BF477A9C60C8}
+	EndGlobalSection
+EndGlobal
