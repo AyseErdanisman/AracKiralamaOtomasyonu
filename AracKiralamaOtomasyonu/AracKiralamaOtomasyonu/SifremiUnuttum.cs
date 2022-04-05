@@ -25,7 +25,7 @@ namespace AracKiralamaOtomasyonu
 
             if (txtKullanici.Text!="" && txtMail.Text!="")
             {
-                MySqlConnection conn = new MySqlConnection(@"Data Source=localhost; port=3306; Initial Catalog=arac_kiralama; User Id=root; password=zx79X3qw");
+                MySqlConnection conn = new MySqlConnection(@"Data Source=localhost; port=3306; Initial Catalog=arac_kiralama; User Id=root; password=");
                 conn.Open();
 
                 MySqlCommand cmd = conn.CreateCommand();
