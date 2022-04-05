@@ -15,7 +15,7 @@ namespace AracKiralamaOtomasyonu
 {
     public partial class Sozlesme : DevExpress.XtraEditors.XtraForm
     {
-        MySqlConnection conn = new MySqlConnection(@"Data Source=localhost; port=3306; Initial Catalog=arac_kiralama; User Id=root; password=zx79X3qw");
+        MySqlConnection conn = new MySqlConnection(@"Data Source=localhost; port=3306; Initial Catalog=arac_kiralama; User Id=root; password=");
         public Sozlesme()
         {
             InitializeComponent();
